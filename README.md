@@ -43,6 +43,6 @@ todo-list/
 ## 🧪 How to Run Locally
 
 1. Clone the repo:
-   git clone https://github.com/harithaaselvanathan2035/todo-list.git
+   gh repo clone harithaaselvanathan2035/To-Do-List
 
 
