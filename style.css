@@ -1,0 +1,92 @@
+*{
+    margin : 0;
+    padding : 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#og{
+  border: 10px solid black;         
+  border-radius: 5px;              
+  background: transparent;
+  backdrop-filter: blur(8px);
+  margin-top: 200px;
+  margin-right: 450px;
+  margin-left: 450px;
+  padding: 50px;
+  
+}
+#three{
+
+ margin-top: 10px;
+ margin-left: 170px;
+}
+
+#one{
+    color: black;
+    margin-top: 10px;
+}
+h1{
+    height: 40px;
+    width: 400px;
+   
+}
+
+#two{
+    
+    margin-top: 10px;
+}
+#in{
+
+height: 20px;
+width: 300px;
+border-color: black;
+border-width: 5px;
+background: transparent;
+backdrop-filter: blur(8px);
+border-radius: 5px;
+}
+
+#in::placeholder {
+    color: black;
+    font-family: sans-serif;
+    font-size: bolder;
+}
+#in:hover {
+  border-color: black;
+  background-color: white;
+  transform: scale(1.02);
+  transition: all 0.3s ease-in-out;
+}
+#btn{
+margin-left: 10px;
+height: 30px;
+width: 70px;
+border-color: black;
+border-width: 5px;
+background: transparent;
+backdrop-filter: blur(8px);
+border-radius: 5px;
+font-size: 16px;
+font-weight: bold;
+}
+
+#btn:hover{
+   color: white;
+   background-color: black;
+   transform: scale(1.05);     
+   transition: 0.3s ease-in-out;
+   border-color: white; 
+}
+
+ul li {   
+  
+  width: 80%;                
+  color: black;               
+  font-size: 18px;
+  font-weight: bold;
+}
