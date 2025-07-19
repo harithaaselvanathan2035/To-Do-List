@@ -38,11 +38,5 @@ todo-list/
 └── README.md # Project description
 
 
----
-
-## 🧪 How to Run Locally
-
-1. Clone the repo:
-   gh repo clone harithaaselvanathan2035/To-Do-List
 
 
