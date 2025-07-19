@@ -14,14 +14,6 @@ A simple and clean **To-Do List** web application built using **HTML, CSS, and J
 
 ---
 
-## 🚀 Live Demo
-
-You can try it live here:  
-👉 [Live Demo Link](https://harithaaselvanathan2035.github.io/todo-list)  
-*(Replace with your GitHub Pages URL)*
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – structure
